@@ -1,2 +1,2 @@
 # Yes-Bank-Stock-Closing-Price-Prediction
-In this project we are going to work on Yes bank’s stock price dataset.
+This is Almabetter's capstone project on ML-Regression problem. In this project we are going to work on Yes bank’s stock price dataset. Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in news because of the fraud case involving Rana Kapoor. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest and lowest stock prices of every month. The main objective is to predict the stock's closing price of the month.
